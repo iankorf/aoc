@@ -1,4 +1,4 @@
 AOC 2025
 ========
 
-Random notes here
+- 01 is mostly modulo, integer divide, and conditional OOE
